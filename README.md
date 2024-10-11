@@ -1,4 +1,4 @@
-XssFindr
+# XssFindr
 
 XssFindr est un outil de pentest en Python permettant de tester la présence de failles XSS (Cross-Site Scripting) sur des pages web. Cet outil utilise Selenium pour injecter automatiquement des scripts malveillants dans les champs de saisie d'une page web afin de vérifier si une faille XSS est présente.
 Fonctionnalités
